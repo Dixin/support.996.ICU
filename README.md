@@ -98,3 +98,4 @@ Supported by / 支持者:
 * Lowell Bander, Software Engineer, Facebook
 * Wendy Liu, Tech Writer
 * Nisha Pillai, Software Engineer
+* Dixin Yan, Microsoft Software Development Engineer 2010-2016, Microsoft Most Valuable Professional 2018-2019
